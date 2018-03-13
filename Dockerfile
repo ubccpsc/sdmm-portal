@@ -1,6 +1,6 @@
 FROM node:8-alpine
 
-EXPOSE 443
+EXPOSE 6000
 
 VOLUME [ "/app/ssl" ]
 
